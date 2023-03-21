@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Davidbassey01
 - 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ... Javascripr
+- 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... basseydavide@gmail.com
 
